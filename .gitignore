@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+Haskell/a.hs
+Haskell/big_step*
+Haskell/small*
+Coq/*
